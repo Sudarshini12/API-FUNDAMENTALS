@@ -1,0 +1,128 @@
+--
+
+API Fundamentals
+
+1. What is an API, and how does it work?
+
+
+2. Explain the difference between RESTful API, SOAP API, and GraphQL API.
+
+
+3. What are HTTP request methods (GET, POST, PUT, DELETE, etc.)?
+
+
+4. Describe the concept of API endpoints and API resources.
+
+
+5. What is API documentation, and why is it important?
+
+---
+
+API Testing
+
+1. How do you test API functionality?
+
+
+2. Explain the difference between API testing and unit testing.
+
+
+3. What tools do you use for API testing (e.g., Postman, JMeter, SoapUI)?
+
+
+4. How do you test API security vulnerabilities?
+
+
+5. Describe your experience with API testing frameworks (e.g., Pytest, Unittest).
+
+---
+
+API Security
+
+1. What are common API security threats (e.g., SQL injection, cross-site scripting)?
+
+
+2. Explain OAuth, OpenID Connect, and JWT authentication.
+
+
+3. How do you secure API endpoints?
+
+
+4. Describe your experience with API gateways (e.g., AWS API Gateway).
+
+
+5. What is API encryption, and how is it implemented?
+
+---
+
+API Design
+
+1. Explain the principles of RESTful API design.
+
+
+2. Describe how to design API endpoints for scalability.
+
+
+3. What is API versioning, and how is it implemented?
+
+
+4. Explain the concept of API caching.
+
+
+5. Describe your experience with API design tools (e.g., Swagger, API Blueprint).
+
+---
+
+API Troubleshooting
+
+1. How do you troubleshoot API errors?
+
+
+2. Explain common API error codes (e.g., 400, 401, 500).
+
+
+3. Describe your experience with API logging and monitoring tools.
+
+
+4. How do you handle API performance issues?
+
+
+5. Explain the concept of API rate limiting.
+
+---
+
+Behavioral Questions
+
+1. Tell me about a challenging API testing project.
+
+
+2. Describe your experience with API integration.
+
+
+3. How do you stay up-to-date with API trends and developments?
+
+
+4. Explain your approach to API testing in an Agile environment.
+
+
+5. Describe your experience with API documentation tools.
+
+
+
+
+---
+
+Scenario-Based Questions
+
+1. Design an API for a simple e-commerce application.
+
+
+2. Test an API endpoint using Postman.
+
+
+3. Implement API security measures for a sensitive data API.
+
+
+4. Troubleshoot an API error using logs.
+
+
+5. Describe how you would approach API testing for a microservices architecture.
